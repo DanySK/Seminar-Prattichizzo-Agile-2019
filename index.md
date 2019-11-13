@@ -8,6 +8,8 @@ bio: >
 
 #### di Marco Prattichizzo
 
+---
+
 ## In poche righe
 
 Alcune industrie (fra cui quelle militare, aerospaziale, e *biomedicale*), sono soggette
