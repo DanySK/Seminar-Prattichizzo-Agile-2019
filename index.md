@@ -70,8 +70,8 @@ tali aspetti di sicurezza è critica.
 
 In realtà I quattro valori dell’AGILE non hanno come obiettivo quello di rendere obsoleti o rimuovere
 dal processo di sviluppo i concetti classici (Processes and tools,
-Documentation, Contract negotiation, e Following a plan)
-Al contrario, AGILE si impone di bensì spostano l'attenzione verso caratteristiche del processo di sviluppo
+Documentation, Contract negotiation, e Following a plan);
+al contrario, AGILE si impone di spostare l'attenzione verso caratteristiche del processo di sviluppo
 spesso sottovalutate (Individuals and Interactions, Working Software, Customer Collaboration, Responding to
 Change). Questo il punto da cui partire quando si vuole passare ad AGILE.
 
