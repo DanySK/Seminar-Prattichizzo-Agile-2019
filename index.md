@@ -98,6 +98,6 @@ i piani quando necessario.
 
 ---
 
-## [Slides](about:blank)
+## [Slides](static/prattislides.pdf)
 
 ---
